@@ -1,0 +1,12 @@
+# python cache
+__pycache__/
+*.pyc
+
+myenv/
+venv/
+
+.ENV
+.FLASKENV
+
+.vscode/
+
